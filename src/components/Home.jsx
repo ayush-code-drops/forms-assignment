@@ -107,7 +107,7 @@ function Home() {
               <label>
                    </label>
               {/* <input type="radio" name="style" id="WFH" />
-              <input type="radio" name="style" id="Office" /> */}
+              <input type="radio" name="style" id="Office" /> */} 
              
           <input type="submit" value="Submit" />
        
